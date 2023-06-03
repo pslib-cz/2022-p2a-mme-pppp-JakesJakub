@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/V-0A61vX)
-# Swinging Doors for Micro:Bit self-driving cars
+# Lítací dveře pro Micro:Bit auta
 ![Assembled](https://github.com/pslib-cz/2022-p2a-mme-pppp-JakesJakub/assets/91247920/fc922db6-7eba-4ff1-8247-1ff9e4af290b)
   <p>Tyto 3D tištěné lítací dveře jsou určeny k použití jako překážka pro auta Micro:Bit. Auta budou muset dveře umístěné po boku závodní dráhy otevřít tak, že do nich jakékoliv strany zatlačí a budou pokračovat v jízdě. Po otevření se dveře samy zavřou.</p>
 
