@@ -14,7 +14,7 @@
 # Jak je vytisknout a sestavit:
 
 ## Jak je vytisknout:
-1. Stáhněte si [soubory pro 3D tisk](FilesFor3DPrit)
+1. Stáhněte si [soubory pro 3D tisk](FilesFor3DPrint)
 2. V tiskovém softwaru nastavte následující parametry:
 - požadovaná velikost (doporučená: 125 %)
 - nastavení rychlosti tisku na 100 mm/s
