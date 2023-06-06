@@ -21,7 +21,7 @@
 - set fill on at least 10%
 The printing time is going to take roughly 9 hours. (depending on set parameters, the time may vary)
 
-###How to setup:
+### How to setup:
 ![Parts](https://github.com/pslib-cz/2022-p2a-mme-pppp-JakesJakub/assets/91247920/d79ebb7e-6162-4fbe-b9dc-5e71a808c012)
 After printing is done, you are left with 3 printed pieces, that you will put together
 1. Take Part2 (door) and insert into Part1 (stand).
