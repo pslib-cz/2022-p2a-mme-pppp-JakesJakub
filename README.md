@@ -14,7 +14,7 @@
 ## How to print and setup:
 
 ### How to print:
-1. Download the [3D print files](FilesFor3DPrit)
+1. Download the [3D print files](FilesFor3DPrint)
 2. In the printing software, set the following parameters:
 - desired size (recommended: 125%)
 - set printing speed on 100mm/s
