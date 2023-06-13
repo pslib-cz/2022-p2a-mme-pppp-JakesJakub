@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/V-0A61vX)
+Language: [Czech](README.cs.md)
 # Swinging Doors for Micro:Bit cars
 ![Assembled](https://github.com/pslib-cz/2022-p2a-mme-pppp-JakesJakub/assets/91247920/fc922db6-7eba-4ff1-8247-1ff9e4af290b)
   These 3D printed swinging doors are made for being used as a obstacle for Micro:Bit cars. Cars will have to open the door, placed on the side of the racing track, by pushing into them from either side and continue driving. Once opened, the door will close by itself.
