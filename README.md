@@ -18,6 +18,7 @@ Language: [Czech](README.cs.md)
 2. In the printing software, set the following parameters:
 - set fill on at least 10%
 - for Part1, add supports for the hook
+  
 The printing time is going to take roughly 9 hours. (depending on set parameters, the time may vary)
 
 ### How to setup:
