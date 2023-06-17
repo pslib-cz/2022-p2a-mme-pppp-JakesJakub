@@ -16,9 +16,8 @@ Language: [Czech](README.cs.md)
 ### How to print:
 1. Download the [3D print files](FilesFor3DPrint)
 2. In the printing software, set the following parameters:
-- desired size (recommended: 125%)
-- set printing speed on 100mm/s
 - set fill on at least 10%
+- for Part1, add supports for the hook
 The printing time is going to take roughly 9 hours. (depending on set parameters, the time may vary)
 
 ### How to setup:
