@@ -16,10 +16,10 @@ Jazyk: [Angličtina](README.md)
 ### Jak je vytisknout:
 1. Stáhněte si [soubory pro 3D tisk](FilesFor3DPrint)
 2. V tiskovém softwaru nastavte následující parametry:
-- požadovaná velikost (doporučená: 125 %)
-- nastavení rychlosti tisku na 100 mm/s
 - nastavte výplň alespoň na 10 %.
-- Tisk bude trvat zhruba 9 hodin. (v závislosti na nastavených parametrech se může doba lišit).
+-  Pro Part1, přidejte podpory pro háček
+
+ Tisk bude trvat zhruba 9 hodin. (v závislosti na nastavených parametrech se může doba lišit).
 
 ### Jak je sestavit:
 ![Parts](https://github.com/pslib-cz/2022-p2a-mme-pppp-JakesJakub/assets/91247920/d79ebb7e-6162-4fbe-b9dc-5e71a808c012)
