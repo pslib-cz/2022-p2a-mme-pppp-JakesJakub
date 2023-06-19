@@ -13,6 +13,7 @@ Language: [Czech](README.cs.md)
 ### Materials:
 - PLA filament
 - rubber band
+- extra weights, ideally nuts M10/M12 (if necessary)
 
 ### Cost:
 - Roughly 75,- Kč/3,40 $/3,17 EUR
@@ -36,6 +37,6 @@ After printing is done, you are left with 3 printed pieces, that you will put to
 1. Take Part2 (door) and insert into Part1 (stand).
 2. Take Part3 (weight) and insert into Part1 (stand).
 3. Take rubber band and attach Part1 to Part2 by hooks placed on the top of both parts.
-4. If the Swinging Doors don't stay in place when used, take extra weight and place on top of Part3.
+4. If the Swinging Doors don't stay in place when used, take extra weights and insert them into the holes in Part3.
 
 ![Flying Doors](https://github.com/pslib-cz/2022-p2a-mme-pppp-JakesJakub/assets/91247920/87acfa26-db0c-4b8d-8b42-fe49f5255caa)
