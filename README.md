@@ -4,6 +4,11 @@ Language: [Czech](README.cs.md)
 
   These 3D printed swinging doors are made for being used as a obstacle for Micro:Bit cars. Cars will have to open the door, placed on the side of the racing track, by pushing into them from either side and continue driving. Once opened, the door will close by itself.
 
+![Litaci_Dvere2](https://github.com/pslib-cz/2022-p2a-mme-pppp-JakesJakub/assets/91247920/9e223168-c5ee-4df1-b5ea-23f60a4a301a)
+
+(Micro:Bit cars aren't being used for this demonstration)
+
+
 ## Materials used and cost:
 ### Materials:
 - PLA filament
@@ -19,6 +24,8 @@ Language: [Czech](README.cs.md)
 2. In the printing software, set the following parameters:
 - set fill on at least 10%
 - for Part1, add supports for the hook
+- Part2 should be printed laying down
+- for Part3, add supports for the lower cutout
   
 The printing time is going to take roughly 9 hours. (depending on set parameters, the time may vary)
 
