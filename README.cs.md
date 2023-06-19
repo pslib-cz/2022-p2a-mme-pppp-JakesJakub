@@ -3,6 +3,11 @@ Jazyk: [Angličtina](README.md)
 ![Whole](https://github.com/pslib-cz/2022-p2a-mme-pppp-JakesJakub/assets/91247920/a972b093-5f7a-4146-870c-2eb50b908a64)
   Tyto 3D tištěné lítací dveře jsou určeny k použití jako překážka pro auta Micro:Bit. Auta budou muset dveře umístěné po boku závodní dráhy otevřít tak, že do nich jakékoliv strany zatlačí a budou pokračovat v jízdě. Po otevření se dveře samy zavřou.
 
+  
+![Litaci_Dvere2](https://github.com/pslib-cz/2022-p2a-mme-pppp-JakesJakub/assets/91247920/9e223168-c5ee-4df1-b5ea-23f60a4a301a)
+
+(Micro:Bit auta nejsou pro tuto ukázku používána)
+
 ## Použité materiály a cena:
 ### Materiály:
 - PLA filament
@@ -17,7 +22,9 @@ Jazyk: [Angličtina](README.md)
 1. Stáhněte si [soubory pro 3D tisk](FilesFor3DPrint)
 2. V tiskovém softwaru nastavte následující parametry:
 - nastavte výplň alespoň na 10 %.
--  Pro Part1, přidejte podpory pro háček
+- pro Part1 přidejte podpory pro háček
+- Part2 by měl být vytištěn vleže
+- pro Part3 přidejte podpěry pro spodní výřez
 
  Tisk bude trvat zhruba 9 hodin. (v závislosti na nastavených parametrech se může doba lišit).
 
